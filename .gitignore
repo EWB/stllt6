@@ -8,6 +8,7 @@ sites/all/modules/local
 
 #Ignore paths to multisite and symlink-related paths
 stage/*
+cgi-bin/*
 
 #Ignore arious and Sundry
 
